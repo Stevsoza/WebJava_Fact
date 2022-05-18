@@ -1,0 +1,32 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 6/05/2022, 03:41:59 PM
+    Author     : Steven
+*/
+/*
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+*/
+
+
+.imagenFondo{
+    background-image: url('../img/huellas2.png');
+    background-size: cover;
+    object-fit: contain;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;    
+}
+
+span.error{color:red; font-size:0.8em;}
